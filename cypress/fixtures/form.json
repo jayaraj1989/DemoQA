@@ -1,0 +1,63 @@
+{
+"TC1":{
+    "FirstName": "Alden",
+    "LastName":"Cantrell",
+    
+    "Age":"30",
+    "Email":"test@test.com",
+    "Salary":"12345",
+    "Department":"QA",
+    "rowcount":"3",
+    "expectedData":[
+        "Kierra",
+        "Gentry",
+        "29",
+        "kierra@example.com",
+        "2000",
+        "Legal"
+        
+        ]},
+    "TC2":{
+        "FirstName": "Alden",
+        "LastName":"Cantrell",
+        "EditFirstName": "Gerimedica",
+        "EditLastName": "BV",
+        "Age":"30",
+        "Email":"test@test.com",
+        "Salary":"12345",
+        "Department":"QA",
+        "expectedData":[
+            "Gerimedica",
+            "BV",
+            "45",
+            "alden@example.com",
+            "12000",
+            "Compliance"
+            ]
+
+        },
+        "TC3":{
+            "FirstName": "Gerimedica",
+            "LastName":"BV",
+            "Email": "test@test.com",
+            "DOB": "15/01/1990",
+            "Subject": "Cypress assignment",
+            "Gender": "Male",
+            "PhoneNumber":" 9586543228",
+            "Hobbie":"Reading",
+            "CurrentAddress":"Netherlands",
+            "State":"NCR",
+            "City":"Delhi",
+            "expected":[
+                "Gerimedica",
+                "BV",
+                "45",
+                "alden@example.com",
+                "12000",
+                "Compliance"
+                ]
+    
+            }
+    
+  
+}

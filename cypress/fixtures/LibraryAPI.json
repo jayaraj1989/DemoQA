@@ -1,0 +1,66 @@
+{
+
+    "TC1":{"option":[
+
+        "1677482933187@aharotest.com",
+        "Pa$$w0rd",
+        "406",
+        "User exists!",
+        "20c175e8-7454-4986-9401-bef4a458efd3"
+    ]},
+    "TC2":{"option":[
+
+        "userName",
+        "Pa$$w0rd",
+         "201"
+
+
+    ]}, "TC3":{"option":[
+
+        "1677482933187@aharotest.com",
+        "Pa$$w0rd",
+        "406",
+        "user exist!",
+        "20c175e8-7454-4986-9401-bef4a458efd3",
+        "9781449325862"
+    ]},
+    "TC4":{"option":[
+
+        "1677482933187@aharotest.com",
+        "Pa$$w0rd",
+        "204",
+        "user exist!",
+        "20c175e8-7454-4986-9401-bef4a458efd3",
+        "9781449325862"
+    ]},
+
+    "TC5":{"option":[
+
+        "1677482933187@aharotest.com",
+        "Pa$$w0rd",
+        "400",
+        "user exist!",
+        "20c175e8-7454-4986-9401-bef4a458efd3",
+        "9781449325862",
+        "",
+        "ISBN supplied is not available in User's Collection!"
+
+    ]},
+    "TC6":{"option":[
+
+        "1677482933187@aharotest.com",
+        "Pa$$w0rd",
+        "400",
+        "user exist!",
+        "20c175e8-7454-4986-9401-bef4a458efd3",
+        "9781449325862",
+        "",
+        "ISBN already present in the User's Collection!"
+
+    ]}
+
+    
+
+        
+    
+}
